@@ -45,5 +45,5 @@ The data for the Credit Card Financial Dashboard project originates from two pri
   - Overall Delinquent rate is 6.06%
 
 ## Project Deliverables
-- Final Dashboard [![App Platorm](https://doimages.nyc3.cdn.digitaloceanspaces.com/002Blog/0-BLOG-BANNERS/app_platform.png)](https://app.powerbi.com/view?r=eyJrIjoiZTRiYjAwMDktMDEzYS00YmE2LTlkZjgtY2EwN2I4OWU0YWU2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+- Final Dashboard [![App Platorm](Resources/Credit_card_Transaction_Report.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZTRiYjAwMDktMDEzYS00YmE2LTlkZjgtY2EwN2I4OWU0YWU2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 - Presentation
